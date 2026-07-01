@@ -196,6 +196,8 @@ This work, including its text, structure, imagery, symbolic system, and accompan
 No part of this publication may be reproduced, distributed, translated, adapted, stored in a retrieval system, or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or otherwise, without prior written permission from the copyright holder, except for brief quotations used in reviews, scholarly discussion, or where permitted by applicable copyright law.
 ---
 
+This work may not be used for training artificial intelligence or machine learning systems without the express written permission of the copyright holder.
+
 *"The journey was never about finding the Key.*
 
 *It was about becoming someone capable of carrying it."*
