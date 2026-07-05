@@ -6,6 +6,20 @@ Repository Description  The Book of Keys — A Codex for Crossing Thresholds. A 
 
 > *Nine Gates. Twenty-Seven Keys. One Journey Home.*
 
+A Note to the Reader
+
+The Book of Keys is a work of philosophical reflection.
+
+It does not seek to provide definitive answers or replace established disciplines such as psychology, philosophy, theology, or science.
+
+Instead, it offers one possible framework for contemplating character, relationships, wisdom, and the human journey.
+
+Readers are encouraged to reflect, question, disagree, and discover their own understanding.
+
+The Keys are offered as invitations...
+
+not conclusions.
+
 ---
 
 ## What is this?
